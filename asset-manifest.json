@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.e402c808.chunk.js",
-    "main.js.map": "/static/js/main.e402c808.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f6b149c9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f6b149c9.js.map",
-    "static/js/2.4b1b5a41.chunk.js": "/static/js/2.4b1b5a41.chunk.js",
-    "static/js/2.4b1b5a41.chunk.js.map": "/static/js/2.4b1b5a41.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ee906e37d891a162c5ea074ec8772292.js": "/precache-manifest.ee906e37d891a162c5ea074ec8772292.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.4b1b5a41.chunk.js.LICENSE.txt": "/static/js/2.4b1b5a41.chunk.js.LICENSE.txt",
-    "static/media/profile.jpg": "/static/media/profile.79ba2002.jpg",
-    "static/media/svg-1.svg": "/static/media/svg-1.55cfb481.svg",
-    "static/media/svg-2.svg": "/static/media/svg-2.d4846e11.svg",
-    "static/media/svg-3.svg": "/static/media/svg-3.397c455a.svg"
+    "main.js": "/advisor_Site/home/static/js/main.e402c808.chunk.js",
+    "main.js.map": "/advisor_Site/home/static/js/main.e402c808.chunk.js.map",
+    "runtime-main.js": "/advisor_Site/home/static/js/runtime-main.06c4779a.js",
+    "runtime-main.js.map": "/advisor_Site/home/static/js/runtime-main.06c4779a.js.map",
+    "static/js/2.bf12c268.chunk.js": "/advisor_Site/home/static/js/2.bf12c268.chunk.js",
+    "static/js/2.bf12c268.chunk.js.map": "/advisor_Site/home/static/js/2.bf12c268.chunk.js.map",
+    "index.html": "/advisor_Site/home/index.html",
+    "precache-manifest.3d4b681c77babe11fdb34924c8e6d402.js": "/advisor_Site/home/precache-manifest.3d4b681c77babe11fdb34924c8e6d402.js",
+    "service-worker.js": "/advisor_Site/home/service-worker.js",
+    "static/js/2.bf12c268.chunk.js.LICENSE.txt": "/advisor_Site/home/static/js/2.bf12c268.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/advisor_Site/home/static/media/profile.79ba2002.jpg",
+    "static/media/svg-1.svg": "/advisor_Site/home/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/advisor_Site/home/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-3.svg": "/advisor_Site/home/static/media/svg-3.397c455a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6b149c9.js",
-    "static/js/2.4b1b5a41.chunk.js",
+    "static/js/runtime-main.06c4779a.js",
+    "static/js/2.bf12c268.chunk.js",
     "static/js/main.e402c808.chunk.js"
   ]
 }
