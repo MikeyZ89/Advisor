@@ -14,7 +14,7 @@
     "react-scripts": "3.4.2",
     "styled-components": "^5.1.1"
   },
-  "homepage": "https://mikeyz89.github.io/advisor_Site/home/",
+  "homepage": "https://mikeyz89.github.io/advisor_Site/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

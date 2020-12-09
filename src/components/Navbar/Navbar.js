@@ -64,6 +64,11 @@ function Navbar() {
                   Products
                 </NavLinks>
               </NavItem>
+              <NavItem>
+                <NavLinks to='/' onClick={closeMobileMenu}>
+                  (602)370-6110
+                </NavLinks>
+              </NavItem>
               <NavItemBtn>
                 {button ? (
                   <NavBtnLink to='/sign-up'>
